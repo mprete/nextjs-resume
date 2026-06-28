@@ -2,12 +2,12 @@
 
 A single page resume built with Next.js and Tailwind CSS
 
-## How to Run Locally
+## How to Run 
 
 npm install
 npm run dev
 
-## Features
+## Features Included
 
 - [x] Resume built in NExt.js App router using JSX
 - [x] Styled with Tailmind CSS utility classes
@@ -23,4 +23,4 @@ npm run dev
 ## Known ISsues / Limitations
 
 - No mobile layout
-- One page
+  
