@@ -4,8 +4,8 @@ A one page resume made with Next.js and Tailwind CSS
 
 ## How to Run 
 
--npm install in the terminal
--npm run dev in the terminal
+- npm install in the terminal
+- npm run dev in the terminal
 
 ## Features Included
 
@@ -20,7 +20,7 @@ A one page resume made with Next.js and Tailwind CSS
 - [x] Semetic HTML elements used throughout
 - [x] No console errors
 
-## Known ISsues / Limitations
+## Known Issues / Limitations
 
 - No mobile layout
   
