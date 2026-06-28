@@ -1,11 +1,11 @@
 # Next.js Resume
 
-A single page resume built with Next.js and Tailwind CSS
+A one page resume made with Next.js and Tailwind CSS
 
 ## How to Run 
 
-npm install
-npm run dev
+-npm install in the terminal
+-npm run dev in the terminal
 
 ## Features Included
 
